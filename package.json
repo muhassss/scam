@@ -1,0 +1,17 @@
+{
+  "name": "telegrambot",
+  "version": "1.2.3",
+  "description": "No data to look for here. Everything cleared",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Просим использовать что то вроде `npm start`, `node .`, `node bot.js`\" && exit 1",
+    "start": "node ."
+  },
+  "author": "NoInfo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv-flow": "^3.2.0",
+    "node-qiwi-api": "^2.1.2",
+    "telegraf": "^3.38.0"
+  }
+}
